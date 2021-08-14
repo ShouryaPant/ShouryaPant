@@ -30,8 +30,25 @@
   <img align="left" alt="Shourya's codechef" width="120px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://m.facebook.com/shourya.pant">
-  <img align="left" alt="Shourya's codechef" width="120px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="left" alt="Shourya's facebook" width="120px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<br><br>
+
 <br><br>
 ![](https://github.com/ShouryaPant/ShouryaPant/blob/main/header_.png)
+
+## <p align="center"><h4 align="center"><samp> A Python Developer, A C++ developer, A great Problem Solver, A Competitive Programmer  and A Machine Learning Enthusiast</samp></h4></p>
+<div>
+<img align="right" src="https://github.com/ShouryaPant/ShouryaPant/blob/main/programming.gif" width="40%"/>
+  <br>  
+  
+- 👷 <samp> Currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Oriental Institute of Science and Technology
+  
+- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+  
+- 💬 <samp>I am A Python and a C++ Developer with good problem solving skills
+  
+- 🤔 <samp>I am A Good Problem Solver with 5⭐ on Hackerrank Python, 5⭐ on Hackerrank C++
+  
+- 💻 <samp> I completed the Google Facilitator Program 2k21
+  
+</div>
