@@ -16,10 +16,10 @@
 <a href="https://www.coursera.org/user/18121547ce0d3f872fdbf359f5c31c1f">
   <img align="left" alt="Shourya's Coursera" width="120px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
+<br><br>
 <a href="https://www.qwiklabs.com/public_profiles/ee26a2cf-790b-46cb-8e43-0a4f2cc54d31">
   <img align="left" alt="Shourya's Qwiklab" width="120px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<br><br>
 <a href="https://www.hackerrank.com/ShouryaPant">
   <img align="left" alt="Shourya's hackerrank" width="120px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
