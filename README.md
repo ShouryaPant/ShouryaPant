@@ -36,6 +36,7 @@
 <br><br>
 ![](https://github.com/ShouryaPant/ShouryaPant/blob/main/header_.png)
 
+## SUMMARY ABOUT ME
 ## <p align="center"><h4 align="center"><samp> A Python Developer, A C++ developer, A great Problem Solver, A Competitive Programmer  and A Machine Learning Enthusiast</samp></h4></p>
 <div>
 <img align="right" src="https://github.com/ShouryaPant/ShouryaPant/blob/main/programming.gif" width="40%"/>
@@ -47,7 +48,7 @@
   
 - 💬 <samp>I am A Python and a C++ Developer with good problem solving skills
   
-- 🤔 <samp>I am A Good Problem Solver with 5⭐ on Hackerrank Python, 5⭐ on Hackerrank C++
+- 🤔 <samp>I am A Good Problem Solver with 5⭐ on Hackerrank Python, 5⭐ on Hackerrank C++ , 3⭐ on Codechef
   
 - 💻 <samp> I completed the Google Facilitator Program 2k21
   
