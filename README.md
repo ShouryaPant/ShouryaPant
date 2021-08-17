@@ -1,5 +1,4 @@
 # Hey Everyone! I'm [Shourya Pant !!](https://github.com/ShouryaPant) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-
 <br><br>
 <a href="https://twitter.com/ShouryaPant">
   <img align="left" alt="Shourya's Twitter" width="120px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
