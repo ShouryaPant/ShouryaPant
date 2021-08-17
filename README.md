@@ -53,3 +53,29 @@
 - 💻 <samp> I completed the Google Facilitator Program 2k21
   
 </div>
+  
+## Skills and Languages
+  
+<h3><b><samp></samp></b></h3>
+  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee)
+![JUPYTER NOTEBOOKS](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+  
+<span>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/c%20Programming.png" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/c%2B%2B.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/visual-studio-code.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/git-icon.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/Jupyter-%20Notebooks.png" alt="drawing" width="50"/>
+</span>
