@@ -117,6 +117,21 @@
 
 </span>
 
+## Check out my Repositories
+<hr> 
+  
+<h3><b><samp></samp></b></h3>
+<span>
+<a href="https://github.com/ShouryaPant/Hangman-Game">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ShouryaPant&repo=Hangman-Game" />
+</a>
+<a href="https://github.com/ShouryaPant/Scientific-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShouryaPant&repo=Scientific-Calculator" />
+</a>
+  </span>
+  
+<hr>
+  
 ## GITHUB STATS:
   
 <p align="center">
@@ -153,3 +168,4 @@
   <img src="https://profile-counter.glitch.me/ShouryaPant/count.svg" />
 </p>
   
+![](https://github.com/ShouryaPant/ShouryaPant/blob/main/images/bottom_header.svg)
