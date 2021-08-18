@@ -138,7 +138,7 @@
   <a href="https://github.com/ShouryaPant"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ShouryaPant&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaPant&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShouryaPant&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaPant&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaPant&theme=dracula" />
     </span></a>
 </p>
