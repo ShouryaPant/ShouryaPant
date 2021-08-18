@@ -133,7 +133,7 @@
 <hr>
   
 ## GITHUB STATS:
-  
+
 <p align="center">
   <a href="https://github.com/ShouryaPant"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ShouryaPant&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
