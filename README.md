@@ -35,7 +35,8 @@
 <br><br>
 ![](https://github.com/ShouryaPant/ShouryaPant/blob/main/header_.png)
 
-## SUMMARY ABOUT ME
+## SUMMARY ABOUT ME:
+
 ## <p align="center"><h4 align="center"><samp> A Python Developer, A C++ developer, A great Problem Solver, A Competitive Programmer  and A Machine Learning Enthusiast</samp></h4></p>
 <div>
 <img align="right" src="https://github.com/ShouryaPant/ShouryaPant/blob/main/programming.gif" width="40%"/>
@@ -53,7 +54,7 @@
   
 </div>
   
-## Skills and Languages
+## SKILLS AND LANGUAGES:
   
 <h3><b><samp></samp></b></h3>
   
@@ -79,7 +80,8 @@
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/Jupyter-%20Notebooks.png" alt="drawing" width="50"/>
 </span>
 
-## Tools and PlatformS
+## TOOLS AND PLATFORMS:
+  
 <h3><b><samp></samp></b></h3>
   
 ![GOOGLE CLOUD PLATFORM](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -95,6 +97,8 @@
 ![JUPYTER NOTEBOOKS](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![MICROSOFT WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![NUMPY](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PANDAS](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   
 <span>
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
@@ -112,3 +116,40 @@
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/ms%20word%20logo.png" alt="drawing" width="40"/>
 
 </span>
+
+## GITHUB STATS:
+  
+<p align="center">
+  <a href="https://github.com/ShouryaPant"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ShouryaPant&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaPant&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShouryaPant&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaPant&theme=dracula" />
+    </span></a>
+</p>
+  
+<br>
+  
+### 🏆 GITHUB TROPHY PROFILE:
+  
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ShouryaPant&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+  
+### 📈 GITHUB ACTIVITY:
+  
+  <a href="https://github.com/ShouryaPant/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShouryaPant&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align="center">
+<a href="https://profile.codersrank.io/user/ShouryaPant"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ShouryaPant&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+</p>
+  
+<br>  
+  
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ShouryaPant/count.svg" />
+</p>
+  
