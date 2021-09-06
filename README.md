@@ -48,9 +48,11 @@
   
 - 💬 <samp>I am A Python and a C++ Developer with good problem solving skills
   
-- 🤔 <samp>I am A Good Problem Solver with 5⭐ on Hackerrank Python, 5⭐ on Hackerrank C++ , 3⭐ on Codechef
+- 🤔 <samp>I am A Good Problem Solver with 5⭐ on Hackerrank Python, 5⭐ on Hackerrank C++ 
   
 - 💻 <samp> I completed the Google Facilitator Program 2k21
+  
+- 🏆 <samp> I am MTA CERTIFIED PYTHON DEVELOPER 
   
 </div>
   
@@ -138,7 +140,9 @@
   <a href="https://github.com/ShouryaPant"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ShouryaPant&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaPant&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rohit0301&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+   <br>
+    <img height="200em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShouryaPant&hide=html,css,javascript,scss&langs_count=8&theme=radical" />
+    <br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShouryaPant&theme=dracula" />
     </span></a>
 </p>
