@@ -37,22 +37,34 @@
 
 ## SUMMARY ABOUT ME:
 
-## <p align="center"><h4 align="center"><samp> A Python Developer, A C++ developer, A great Problem Solver, A Competitive Programmer  and A Machine Learning Enthusiast</samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Data Engineer @ TCS | Microsoft Certified Azure AI Engineer Associate (AI-102) | Microsoft Certified: Azure AI Fundamentals (AI-900) | AWS Certified: AI Practitioner | AWS Certified: Cloud Practitioner | B.Tech in Computer Science and Engineering (Rank- 7, CGPA - 9.23) | Hackerrank Python 5 ⭐ | Hackerrank C++ 5 ⭐ | Great Problem Solver | AI/ ML/ GenAI enthusiast </samp></h4></p>
 <div>
 <img align="right" src="https://github.com/ShouryaPant/ShouryaPant/blob/main/programming.gif" width="40%"/>
   <br>  
   
-- 👷 <samp> Currently pursuing B.Tech in Computer Science and Engineering(2019-2023) from Oriental Institute of Science and Technology
+- 👷 <samp> Completed B.Tech in Computer Science and Engineering(2019-2023) from Oriental Institute of Science and Technology with an overall rank of 7 in the entire CSE department.
   
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+- 💼 <samp>Working as a Full Time Data Engineer @ Tata Consultancy Services (T.C.S. Digital).
   
-- 💬 <samp>I am A Python and a C++ Developer with good problem solving skills
+- 💬 <samp>I am a Data Engineer, Proficient in Python, Pyspark, Databricks, Machine Learning, Artificial Intelligence, GenAI, Numpy, Pandas, Matplotlib, C++, Prompt Engineering, Data Science
   
 - 🤔 <samp>I am A Good Problem Solver with 5⭐ on Hackerrank Python, 5⭐ on Hackerrank C++ 
   
-- 💻 <samp> I completed the Google Facilitator Program 2k21
-  
-- 🏆 <samp> I am MTA CERTIFIED PYTHON DEVELOPER 
+- 🏆 <samp> I am Microsoft Azure AI Fundamentals (AI-900) Certified
+
+- 🏆 <samp> I am Microsoft Certified: Azure AI Engineer Associate (AI-102)
+
+- 🏆 <samp> I am AWS Certified: AI Practitioner
+
+- 🏆 <samp> I am AWS Certified: Cloud Practitioner
+
+- 💻 <samp> Completed the Udacity AWS ML Scholarship program for which only 3000 students Pan-India were selected
+
+- 💻 <samp> Completed Internshala Machine Learning Training cum internship Program with 95%
+
+- 💻 <samp> Accomplished the Internship Studio: AI Internship
+
+- 💻 <samp> Accomplished the Google Facilitator Program 2k21
   
 </div>
   
@@ -64,9 +76,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee)
 ![JUPYTER NOTEBOOKS](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
   
 <span>
@@ -101,6 +110,7 @@
 ![MICROSOFT WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PANDAS](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![CHATGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   
 <span>
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
@@ -116,7 +126,7 @@
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/Jupyter-%20Notebooks.png" alt="drawing" width="50"/>
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/Photoshop.png" alt="drawing" width="40"/>
 <img src="https://github.com/ShouryaPant/ShouryaPant/blob/main/images/ms%20word%20logo.png" alt="drawing" width="40"/>
-
+<img src="(https://camo.githubusercontent.com/5644f88aebe629ef260750a6340cca58707110e7ca5e973649d9f794d72c1f30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861744750542d3734616139633f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465)" alt="drawing" width="40"/>
 </span>
 
 ## Check out my Repositories
